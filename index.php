@@ -101,7 +101,7 @@
           
           <div class="card-header bg-dark">
             
-            <h1 class="text-white text-center">Intern Details Form</h1>
+            <h1 class="text-white text-center">Regestration Form</h1>
           </div>
 
 
