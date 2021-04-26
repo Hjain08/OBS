@@ -11,7 +11,7 @@
 
     }
 
-    if(isset($_POST['done'])){
+    if(isset($_POST['submit'])){
 
     $uname = $_POST['uname'];
     $email = $_POST['email'];
