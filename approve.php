@@ -4,7 +4,7 @@
 
 	$id = $_GET['id'];
 
-	$result = mysqli_query($con, "UPDATE `assignment1` SET `status` = 'Approve' WHERE `id`=$id;");
+	$result = mysqli_query($con, "UPDATE `assignment1` SET `status` = 'Approved' WHERE `id`=$id;");
 
 	header("Location:display.php");
 ?>
